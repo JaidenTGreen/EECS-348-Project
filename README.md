@@ -13,4 +13,4 @@ Deliverable 1: Project Plan - https://github.com/JaidenTGreen/EECS-348-Project/b
 
 Deliverable 2: Software Requirements - https://github.com/JaidenTGreen/EECS-348-Project/blob/main/Project-Phases/02-Software-Requirements-Spec.pdf
 
-Deliverable 3: Software Architecture - 
+Deliverable 3: Software Architecture - https://github.com/JaidenTGreen/EECS-348-Project/blob/main/Project-Phases/03-Software-Architecutre-Design.pdf
